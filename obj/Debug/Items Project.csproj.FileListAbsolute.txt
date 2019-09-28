@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\bin\Debug\Items Project.exe.config
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\bin\Debug\Items Project.exe
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\bin\Debug\Items Project.pdb
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items Project.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items_Project.Items.resources
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items_Project.Properties.Resources.resources
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items Project.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items Project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items Project.exe
+C:\Users\Hp\Desktop\Windows Application\Items Project\Items Project\obj\Debug\Items Project.pdb
